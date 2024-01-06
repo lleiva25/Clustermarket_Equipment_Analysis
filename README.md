@@ -1,3 +1,4 @@
+
 # Clustermarket Equipment Analysis
 -----------------------------------------------------------------------------------------------------------------------------------
 Purpose
@@ -22,8 +23,8 @@ Python Libraries
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Plots Generated
----------------------------------------------------------------------------------------------------------------------------------
-![Lab1_Chart_5 1](https://github.com/lleiva25/Clustermarket_Insight_Analysis/assets/140974405/8ba8759d-c158-4b22-b1da-6b37013c83d3)
+-----------------------------------------------------------------------------------------------------------------------------------
+![Lab1_Chart_5_1](https://github.com/lleiva25/Clustermarket_Insight_Analysis/assets/140974405/8fa2a0b9-d669-47ed-8efd-8f4dfddcdc9b)
 ![Lab1_Chart_5](https://github.com/lleiva25/Clustermarket_Insight_Analysis/assets/140974405/11590f8d-7606-4bd1-b131-74df5e939152)
 ![Lab1_Chart_7](https://github.com/lleiva25/Clustermarket_Insight_Analysis/assets/140974405/8f2a8729-46ed-4be8-bb9e-153b6628e241)
 ![Lab1_Chart_8](https://github.com/lleiva25/Clustermarket_Insight_Analysis/assets/140974405/a1ad521d-fe48-4252-a317-fc1f8ab94ac2)
@@ -61,6 +62,7 @@ Process
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Future Development
------------------------------------------------------------------------------------------------------------------------------------ Optimize code by utilizing vectorization and for-loops to generate outputs for all rooms
+----------------------------------------------------------------------------------------------------------------------------------- 
+- Optimize code by utilizing vectorization and for-loops to generate outputs for all rooms
 - Incorporating Clustermarket API into the code when released
 -----------------------------------------------------------------------------------------------------------------------------------
